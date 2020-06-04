@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 import java.util.Properties;
 
 public class PropertiesHelper {
-  
+ 
    //Переменная хелпер (инстанс?)
    public final static PropertiesHelper INSTANCE = new PropertiesHelper();
    //Переменная для работы с файлами пропертис:
